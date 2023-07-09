@@ -1,0 +1,7 @@
+. Responding to change over following a plan
+
+. agile is the when one works fast,confident and skillful, finding quicker and smarter ways to to a tiedious task 
+
+. Well we live in a world that is constantly changing and improving so one needs to keep up or adapt to the fast and forever changing world else you fall behind 
+
+.Firstly, this forces the developers to have an in-depth understanding of the specifications not just that but also avoids test lag and prevents the introduction of errors.
